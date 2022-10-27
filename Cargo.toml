@@ -6,6 +6,8 @@ license = "Apache-2.0"
 description = "A stack-based hashmap with fixed size."
 repository = "https://github.com/O-X-E-Y/stackmap"
 readme = "README.md"
+keywords = ["stack", "small", "map", "hashmap", "hash"]
+categories = ["data-structures"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
